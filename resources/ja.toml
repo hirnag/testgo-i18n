@@ -1,0 +1,8 @@
+[Hello]
+zero = "Hello zero"
+one = "Hello one"
+other = "Hello other"
+[InvalidMissing]
+Invalid = "{{.Name}}は{{.Do}}"
+one = "{{.Name}}がいません"
+other = "{{.Name}}達がいません"
