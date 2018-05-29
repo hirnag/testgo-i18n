@@ -1,8 +1,9 @@
 [Hello]
-zero = "Hello zero"
+description = "Hello"
 one = "Hello one"
 other = "Hello other"
 [InvalidMissing]
+description = "Parameter Is Missing, must be exsits"
 Invalid = "{{.Name}}は{{.Do}}"
 one = "{{.Name}}がいません"
 other = "{{.Name}}達がいません"
